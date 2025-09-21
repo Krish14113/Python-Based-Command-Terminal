@@ -1,7 +1,7 @@
-# AI Virtual Terminal Sandbox
+# Python Based Command Terminal
 
 ## Overview
-The **AI Virtual Terminal Sandbox** is a fully client-side, browser-based terminal that simulates a Linux-like environment.  
+The **Python Based Command Terminal** is a fully client-side, browser-based terminal that simulates a Linux-like environment.  
 It features a **sandboxed virtual filesystem** stored entirely in your browser's `localStorage`, meaning your real computer files are never touched.  
 This makes it a perfectly safe environment for **learning and experimenting** with shell commands.
 
